@@ -6,3 +6,6 @@ nameReference:
     path: spec/dependencies/namespace
   - kind: Policy
     path: spec/policy-templates/extraDependencies/namespace
+
+  - kind: ClusterRoleBinding
+    path: subjects/namespace
